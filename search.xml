@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>安卓手机跳过Google开机验证</title>
+    <url>/2020/03/16/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E8%B7%B3%E8%BF%87Google%E5%BC%80%E6%9C%BA%E9%AA%8C%E8%AF%81/</url>
+    <content><![CDATA[<p>概述：本次课程是安卓原生、类原生ROM如何跳过Google开机验证。</p>
+ <a id="more"></a>
+
+<p>智能手机都会有一个开机激活步骤，iOS如此，Android也不例外，只不过国内的手机ROM都把谷歌的服务替换成自己的云服务了，方便用户激活使用。如果是用海外手机，或者将手机刷成了原生安卓系统，那么手机在开机的时候必须要连接谷歌的服务器进行验证激活。许多小伙伴刚接触海外安卓手机不懂这些，刷机或者重置手机之前忘记退出谷歌账号了，导致开机卡在指导页面。以前小编也经常遇到这种情况，的确非常尴尬。今天POPPUR就来为大家排忧解难，几个方法轻松让手机开机跳过谷歌验证。 </p>
+<p><img src="/2020/03/16/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E8%B7%B3%E8%BF%87Google%E5%BC%80%E6%9C%BA%E9%AA%8C%E8%AF%81/skip.jpg" alt></p>
+<p>​    </p>
+]]></content>
+      <categories>
+        <category>安卓知识</category>
+      </categories>
+      <tags>
+        <tag>Google</tag>
+        <tag>android</tag>
+        <tag>安卓</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/03/16/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
